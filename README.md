@@ -1,0 +1,2 @@
+# capi-config
+My configuration
